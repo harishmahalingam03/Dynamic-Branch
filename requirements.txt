@@ -1,1 +1,3 @@
-
+# requirements.txt
+# Leave empty or add any Python dependencies, for example:
+# Flask==2.0.1
